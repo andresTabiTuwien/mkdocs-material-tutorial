@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: maDMP Evalation Service
 site_url: https://sitename.example
 theme:
   name: material
@@ -16,15 +16,15 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: purple
+      accent: deep orange
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: green
+      primary: purple
       accent: deep orange
   
 markdown_extensions:
@@ -54,4 +54,4 @@ extra:
       link: https://youtube.com/
 
 
-copyright: Copyright &copy; 2024 James Willett
+copyright: Copyright &copy; 2025 Andres Tabima
